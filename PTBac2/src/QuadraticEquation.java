@@ -3,7 +3,7 @@
 
 public class QuadraticEquation {
 	
-	float a,b,c,d;
+	float a,b,c;
 	double x1,x2;
 	double delta;
 	Scanner input = new Scanner(System.in);
