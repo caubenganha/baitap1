@@ -1,2 +1,0 @@
-INDEX VERSION 1.127+C:\JUNIT_WORKSPACE\baitap1\PTBac2\.metadata\.plugins\org.eclipse.jdt.core
-3114610187.index
