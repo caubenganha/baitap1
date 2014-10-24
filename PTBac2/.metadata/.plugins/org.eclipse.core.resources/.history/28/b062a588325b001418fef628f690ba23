@@ -1,0 +1,23 @@
+package testxxx;
+
+public class MaiTestMethod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MainTest mainTest1 = new MainTest();
+		MainTest mainTest2 = new MainTest();
+		MainTest mainTest3 = new MainTest();
+		MainTest mainTest4 = new MainTest();
+		MainTest mainTest5 = new MainTest();
+		MainTest mainTest6 = new MainTest();
+		
+		System.out.print("/n" +mainTest1.GiaiPT(0, 2, 3));
+		System.out.print(mainTest2.GiaiPT(3, -2, 1));
+		System.out.print(mainTest3.GiaiPT(2, 3, 1));
+		System.out.print(mainTest4.GiaiPT(3, 2, 1));
+		System.out.print(mainTest5.GiaiPT(4, 4, 2));
+		System.out.print(mainTest6.GiaiPT(2, 4, 1));
+
+	}
+
+}
